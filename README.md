@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 # THIS IS A READ ME FILE A SMALL INTRO OF ME FOR YOU  :)
 <i> I am currently pursuing my Btech in computer science</i>
-<style>baground-color="red"</style>
+<body style="background-color:powderblue;">
+</body>
