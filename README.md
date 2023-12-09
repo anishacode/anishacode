@@ -10,5 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 # THIS IS A READ ME FILE A SMALL INTRO OF ME FOR YOU  :)
 <i> I am currently pursuing my Btech in computer science</i>
-<body style="background-color:red;">
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
+</html>
+
