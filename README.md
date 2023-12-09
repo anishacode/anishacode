@@ -10,12 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # THIS IS A READ ME FILE A SMALL INTRO OF ME FOR YOU  :)
 <i> I am currently pursuing my Btech in computer science</i>
-<html>
-<body style="background-color:powderblue;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
+My hobbies are 
+<ul>
+<li>abc</li>
+<li>efg</li>
+</ul>
+<p>lemoroa hdsjlkjhjdfjdkjluijhbdjbbjk,asdfghjkl;,dfghjkl.fghjkl.ghjk</p>
